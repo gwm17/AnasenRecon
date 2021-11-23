@@ -1,0 +1,3 @@
+DataFile: /data1/gwm17/7BeNov2021/calibrated/calData-2429-2444_180keV.root
+OutputFile: /data1/gwm17/7BeNov2021/histograms/180keVperU_histograms.root
+ChannelMap: ./etc/AnasenChannelMap_fixedOrientation.txt

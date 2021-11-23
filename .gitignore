@@ -1,0 +1,15 @@
+*.o
+*.so
+*.dylib
+*.txt
+*.sublime-project
+*.sublime-workspace
+*.root
+*.png
+*.pcm
+*.cxx
+bin/anasenrecon
+
+!input.txt
+!etc/AnasenChannelMap_fixedOrientation.txt
+!.gitignore
